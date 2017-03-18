@@ -1,0 +1,14 @@
+name: kemal-bugsnag
+version: 0.1.0
+
+authors:
+  - Jean-Philippe Boily <j@jipi.ca>
+
+crystal: 0.21.1
+
+license: MIT
+
+dependencies:
+  bugsnag:
+    github: gewo/bugsnar.cr
+    branch: master
